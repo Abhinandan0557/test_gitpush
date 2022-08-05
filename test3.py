@@ -1,4 +1,5 @@
 #this is code to connect pycharm to MySql server
+#this code is pushed on my git account.
 
 import mysql.connector as conn
 
